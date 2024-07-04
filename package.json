@@ -1,0 +1,16 @@
+{
+  "name": "assigment-45",
+  "version": "1.0.0",
+  "description": "45 questions",
+  "main": "add.js",
+  "type": "module",
+  "bin": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.3.3"
+  }
+}
